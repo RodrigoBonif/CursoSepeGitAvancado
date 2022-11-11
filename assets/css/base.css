@@ -85,6 +85,7 @@ h1 {
     transition: 0.5s;
 }
 
+
 #image_1 { background: linear-gradient(90deg, hsla(135, 53%, 50%, 1) 0%, hsla(217, 78%, 69%, 1) 100%); }
 #image_2 { background: linear-gradient(90deg, hsla(229, 54%, 47%, 1) 2%, hsla(281, 80%, 51%, 1) 100%); }
 #image_3 { background: linear-gradient(90deg, hsla(352, 54%, 47%, 1) 2%, hsla(34, 80%, 51%, 1) 100%); }
